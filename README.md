@@ -1,1 +1,1 @@
-# PHP Sweet Corner PRoject
+# PHP Sweet Corner Project
